@@ -1,0 +1,17 @@
+{
+  "name": "super-sqlite3",
+  "version": "0.9.0",
+  "description": "Superfast SQLite driver with encryption, query builder and more",
+  "homepage": "https://github.com/haxtra/super-sqlite3",
+  "repository": "github:haxtra/super-sqlite3",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": ["sqlite","sql","db","database","query-builder","encryption","synchronous"],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3-multiple-ciphers": "^7.6.2"
+  }
+}
