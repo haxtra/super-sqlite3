@@ -1,6 +1,6 @@
 # super-sqlite3
 
-Lightning fast SQLite library with optional full db encryption, simple query builder, and a host of utility features, all in one neat package.
+Fast SQLite library with optional full db encryption, simple query builder, and a host of utility features, all in one neat package.
 
 
 ## Table of Contents
@@ -45,12 +45,12 @@ Lightning fast SQLite library with optional full db encryption, simple query bui
 
 ## Features
 
-- lightning fast **synchronous** API [_(yes, it is)_](https://github.com/WiseLibs/better-sqlite3#how-other-libraries-compare)
+- fast **synchronous** API [_(yes, it is)_](https://github.com/WiseLibs/better-sqlite3#how-other-libraries-compare)
 - optional full database encryption
 - full transaction support
 - simple query builder inspired by `knex.js`
 - db utility and convenience functions
-- great API
+- nice API
 
 
 ## Install
@@ -440,3 +440,6 @@ db(table).where(cond).delete() // int
 ## License
 
 MIT
+
+
+![](https://hello.haxtra.com/gh-super-sqlite3)

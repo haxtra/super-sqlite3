@@ -1,7 +1,7 @@
 {
   "name": "super-sqlite3",
-  "version": "0.10.0",
-  "description": "Superfast SQLite driver with encryption, query builder and more",
+  "version": "0.10.1",
+  "description": "Fast SQLite library with optional full db encryption, simple query builder, and a host of utility features, all in one neat package",
   "homepage": "https://github.com/haxtra/super-sqlite3",
   "repository": "github:haxtra/super-sqlite3",
   "main": "src/index.js",
